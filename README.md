@@ -4,18 +4,13 @@ A brief outlook of my profile.
 
 This profile is based on the assignment given by the instructor of Web and Internet Technology, as per our institute curriculum.
 
-#Features
+#FEATURES: 
 
-•Name and brief info about myself.
-•Profile pic
-•Headings and Paragraphs 
-•Ordered and unordered lists
-•External link (of my university)
-•Layout using basic HTML and CSS 
+It contains Name and brief info about myself , A Profile pic , headings and paragraphs , ordered and unordered lists, an external link (of my university), and a simple layout using basic HTML and CSS 
 
-#What I learned
+#WHAT I LEARNED:
 
-•Structuring an HTML document 
-•Using CSS for designing and decorating the page
-•Using semantic HTML to provide better readability 
-•Uploading my projects in my GitHub profile 
+Structuring an HTML document ;
+Using CSS for designing and decorating the page ;
+Using semantic HTML to provide better readability ; and
+Uploading my projects in my GitHub profile .
